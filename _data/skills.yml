@@ -1,0 +1,18 @@
+# Skills
+- skill: Languages
+  description: Java, Python, JS, HTML, CSS, Objective C, JSON, XML
+
+- skill: Databases
+  description: PL/SQL, Mongo, SQLite, MySQL, Realm
+
+- skill: Frameworks
+  description: Android Native, J2EE, Spring, Spring Boot, Spring Data JPA, Angular 4, React JS, Django, Node JS, JQuery 
+
+- skill: Tools
+  description: Git, SVN, Gradle, Ant, Maven, Docker
+
+- skill: IDEs
+  description: Intellij Idea, Android Studio, Eclipse, Visual studio code
+
+- skill: Misc
+  description: Apache Tomcat, Jetty, REST Web services, SOAP Web services, Agile methodology, Kanban methodology, Apache Kafka, Solr, SAP BusinessObjects BI Platform
