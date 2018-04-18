@@ -9,7 +9,7 @@ sass:
   style: compressed
 
 # Resume settings
-resume_avatar:                  "true"
+resume_avatar:                  "false"
 resume_name:                    "Usama Hamid"
 resume_title:                   "Senior Engineer"
 resume_contact_email:           "usamahamid007@gmail.com"
