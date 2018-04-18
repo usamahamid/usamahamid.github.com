@@ -2,17 +2,17 @@
 
 - project: KWE Unified Document System
   role: Lead Developer
-  duration: &mdash; Spring, JSF, Hibernate, JPA 2.0, MongoDB, PL/SQL, Solr DB
+  duration: Spring, JSF, Hibernate, JPA 2.0, MongoDB, PL/SQL, Solr DB
   url: "http://www.kwe.com/"
   description: Feature and API development in Document Management foundation system utilized by numerous systems, with strict coding guidelines and standards.
 
 - project: ImPower BI - Impiger
   role: Lead Developer
-  duration: &mdash; Android, Volley, Realm DB
+  duration: Android, Volley, Realm DB
   url: "https://www.impigertech.com/impower-bi/"
   description: Highly modular and reusable enterprise library, which is to be utilized to create several Business Intelligence and Analytics applications. Generates exhaustive list of charts and reports from literally any data.
 
 - project: Office Suite Application
   role: Developer
-  duration: &mdash; Android, Ant, Espresso
+  duration: Android, Ant, Espresso
   description: Feature development and fixes in a very popular Android Office suite application, with strict coding guidelines and standards. The name of the application can’t be disclosed due to NDA.
