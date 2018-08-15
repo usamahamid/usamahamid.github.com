@@ -1,4 +1,9 @@
 # Projects
+- project: KWE Reports System
+  role: Lead Developer
+  duration: Spring, SAP BusinessObjects, Hibernate, JPA 2.0, PL/SQL
+  url: "http://www.kwe.com/"
+  description: Feature and API development in Reports Management API server to interface into SAP BusinessObjects BI platform to generate customizable Reports.
 
 - project: KWE Unified Document System
   role: Lead Developer
